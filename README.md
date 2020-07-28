@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ecatanzani&count_private=true&show_icons=true)
+
+<a href="https://sourcerer.io/ecatanzani"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
+<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/Python-467%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/C++-703%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/C-656%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/Shell-227%20commits-orange.svg" alt=""></a>
+
+
 <!--
 **ecatanzani/ecatanzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
