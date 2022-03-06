@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, welcome :exclamation: </h1>
 
-<h4 align='center'>
+<h3 align='center'>
   I'm a data anlysist and a machine learning enthusiast
-</h4>
+</h3>
 
 <p align='center'>
   :postal_horn: How to reach me by mail <br/><br/>&nbsp;&nbsp;
