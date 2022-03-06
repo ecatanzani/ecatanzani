@@ -68,3 +68,33 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecatanzani)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1></h1>
+
+<details>
+  <summary>📃 If you are in a harry, take a look to the synthetic resume</summary>
+
+
+<h3 align='center'> 🎓 Education </h3>
+
+- :scroll: **PhD in Computer Science**\
+  :calendar: 2018 - to date\
+  :school: **University of Perugia** - Perugia, Italy
+
+- :scroll: **Master's Degree in Physics**\
+  :calendar: 2015 - 2018\
+  :school: **University of Perugia** - Perugia, Italy
+
+- :scroll: **Bachelor's Degree in Physics**\
+  :calendar: 2011 - 2025\
+  :school: **University of Perugia** - Perugia, Italy
+
+<h3 align='center'> 👷 Experience </h3>
+
+- 👨🏼‍💻 **Grant at INFN section Perugia**\
+  :calendar: 2021 - to date\
+  :office: **INFN Section of Perugia** - Perugia, Italy
+  
+- 👨‍🏫 **Assistant Professor**\
+  :calendar: 2018 - 2021\
+  :school: **University of Perugia** - Perugia, Italy
+
+</details>
