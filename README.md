@@ -1,25 +1,15 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ecatanzani&count_private=true&show_icons=true)
+<h4 align='center'>
+  A developer in the cloud, from Italy.
+</h4>
 
-<a href="https://sourcerer.io/ecatanzani"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="48px" alt="Sourcerer"></a>
-<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/Python-467%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/C++-703%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/C-656%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/ecatanzani"><img src="https://img.shields.io/badge/Shell-227%20commits-orange.svg" alt=""></a>
-
-
-<!--
-**ecatanzani/ecatanzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  :mailbox_with_mail: How to reach me<br/><br/>&nbsp;&nbsp;
+  <a href='mailto:mircot@pm.me'>
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mirco-tracolli-66b322155">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
