@@ -1,8 +1,16 @@
 <h1 align="center"> Hi there, welcome :exclamation: </h1>
 
 <h3 align='center'>
-  I'm a data anlysist and a machine learning enthusiast
+  I'm a physicist, data anlysist and a machine learning enthusiast
 </h3>
+
+<h4 align='center'>
+  Grant from Instituto Nazionale di Fisica Nucleare (INFN) and PhD student at the University of Perugia.<br/><br/>
+  Focused on the software development and data analysis, with great interest for ML applications.<br/>
+  Member of <a href="http://dpnc.unige.ch/dampe/">DAMPE</a> and <a href="http://herd.pg.infn.it">HERD</a> scientific collaborations
+</h4>
+
+<h1></h1>
 
 <p align='center'>
   :postal_horn: How to reach me by mail <br/><br/>&nbsp;&nbsp;
@@ -25,7 +33,6 @@
   <a href="https://join.skype.com/invite/h3lZpa6sDIxM">
     <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
   <a href=' https://www.facebook.com/enrico.catanzani.16'>
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -36,3 +43,5 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
+<h1></h1>
