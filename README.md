@@ -5,9 +5,8 @@
 </h3>
 
 <h4 align='center'>
-  Grant from Instituto Nazionale di Fisica Nucleare (<a href="https://home.infn.it/it/">INFN</a>) and PhD student at the University of Perugia (<a href="https://www.unipg.it">UniPG</a>).<br/><br/>
+  Working as Machine Learning Engineer at <a href="https://aisent.io/">AISent</a> <br/><br/>
   Focused on the software development and data analysis, with great interest for ML applications.<br/>
-  Member of <a href="http://dpnc.unige.ch/dampe/">DAMPE</a> and <a href="http://herd.pg.infn.it">HERD</a> scientific collaborations
 </h4>
 
 <h1></h1>
@@ -72,11 +71,16 @@
 <details>
   <summary>📃 If you are in a harry, take a look to the synthetic resume</summary>
 
+<h3 align='center'>  Employment </h3>
 
+
+- :scroll: **ML Engeneer at AISent**\
+  :calendar: 2022 - to date
+  
 <h3 align='center'> 🎓 Education </h3>
 
-- :scroll: **PhD in Computer Science**\
-  :calendar: 2018 - to date\
+- :scroll: **PhD in Physics**\
+  :calendar: 2018 - 2022\
   :school: **University of Perugia** - Perugia, Italy
 
 - :scroll: **Master's Degree in Physics**\
@@ -90,7 +94,7 @@
 <h3 align='center'> 👷 Experience </h3>
 
 - 👨🏼‍💻 **Grant at INFN section Perugia**\
-  :calendar: 2021 - to date\
+  :calendar: 2021 - 2022\
   :office: **INFN Section of Perugia** - Perugia, Italy
   
 - 👨‍🏫 **Assistant Professor**\
