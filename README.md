@@ -37,7 +37,7 @@
   </a>&nbsp;&nbsp;
   
 <p align='center'>
-  Here you can find some infomration on what I love to do <br/><br/>&nbsp;&nbsp;
+  Here you can find some information on what I love doing <br/><br/>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ecatanzani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
