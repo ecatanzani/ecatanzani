@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, welcome :exclamation: </h1>
 
 <h3 align='center'>
-  I'm a physicist, data anlysist and a machine learning enthusiast
+  I'm a physicist, data analyst and a machine learning enthusiast
 </h3>
 
 <h4 align='center'>
