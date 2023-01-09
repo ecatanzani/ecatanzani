@@ -69,7 +69,7 @@
 <h1></h1>
 
 <details>
-  <summary>📃 If you are in a harry, take a look to the synthetic resume</summary>
+  <summary>📃 If you are in a hurry, take a look to the synthetic resume</summary>
 
 <h3 align='center'>  Employment </h3>
 
