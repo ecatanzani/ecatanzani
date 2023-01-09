@@ -63,11 +63,6 @@
 
 <h1></h1>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ecatanzani)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecatanzani)](https://github.com/anuraghazra/github-readme-stats)
-
-<h1></h1>
-
 <details>
   <summary>📃 If you are in a hurry, take a look to the synthetic resume</summary>
 
