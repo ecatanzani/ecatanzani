@@ -9,7 +9,9 @@
   Focused on software development and data analysis, with great interest for ML applications.<br/>
 </h4>
 
-<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/1b02a135-6d67-413f-8787-0c369afeebef" width="1008" height="776">
+<p align="center">
+  <img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/1b02a135-6d67-413f-8787-0c369afeebef" width="1008" height="700">
+</p>
 
 <h1></h1>
 
@@ -102,5 +104,7 @@
 <h1></h1>
 <h2 align="center"> :musical_keyboard: Music and Cat lover :cat: </h2>
 
-<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/b823b917-5528-4b94-bbae-52552731c2a2" width="308" height="400">
-<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/3c328716-c98f-471a-8c46-9e6b910fc13e" width="520" height="400">
+<p align="center">
+  <img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/b823b917-5528-4b94-bbae-52552731c2a2" width="308" height="400">
+  <img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/3c328716-c98f-471a-8c46-9e6b910fc13e" width="520" height="400">
+</p>
