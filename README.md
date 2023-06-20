@@ -6,8 +6,10 @@
 
 <h4 align='center'>
   Working as Machine Learning Engineer at <a href="https://aisent.io/">AISent</a> <br/><br/>
-  Focused on the software development and data analysis, with great interest for ML applications.<br/>
+  Focused on software development and data analysis, with great interest for ML applications.<br/>
 </h4>
+
+<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/1b02a135-6d67-413f-8787-0c369afeebef" width="1008" height="776">
 
 <h1></h1>
 
@@ -96,3 +98,9 @@
   :school: **University of Perugia** - Perugia, Italy
 
 </details>
+
+<h1></h1>
+<h2 align="center"> :musical_keyboard: Music and Cat lover :cat: </h2>
+
+<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/b823b917-5528-4b94-bbae-52552731c2a2" width="385" height="500">
+<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/3c328716-c98f-471a-8c46-9e6b910fc13e" width="622" height="500">
