@@ -9,10 +9,6 @@
   Focused on software development and data analysis, with great interest for ML applications.<br/>
 </h4>
 
-<p align="center">
-  <img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/1b02a135-6d67-413f-8787-0c369afeebef" width="1008" height="700">
-</p>
-
 <h1></h1>
 
 <p align='center'>
