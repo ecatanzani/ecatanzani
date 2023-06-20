@@ -102,5 +102,5 @@
 <h1></h1>
 <h2 align="center"> :musical_keyboard: Music and Cat lover :cat: </h2>
 
-<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/b823b917-5528-4b94-bbae-52552731c2a2" width="385" height="500">
-<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/3c328716-c98f-471a-8c46-9e6b910fc13e" width="622" height="500">
+<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/b823b917-5528-4b94-bbae-52552731c2a2" width="308" height="400">
+<img src="https://github.com/ecatanzani/ecatanzani/assets/18316072/3c328716-c98f-471a-8c46-9e6b910fc13e" width="520" height="500">
